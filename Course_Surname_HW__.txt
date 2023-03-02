@@ -1,0 +1,6 @@
+Kind of a loop link :rolf:
+
+https://github.com/suchov/devops_for_sys
+Will be my repo, but I'll probably create a .md file for each lessons with the evidences
+to the home work and my thoughts ...
+
