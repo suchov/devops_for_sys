@@ -13,3 +13,5 @@ Actually that's amazing - created the branches pushed them to github(developmen,
 Quite happy that I'm playing with that and thinking about how to actually add a bit more
 scripts probably to my bashrc.
 
+[the twelve factor](https://12factor.net/)
+
