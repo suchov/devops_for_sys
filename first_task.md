@@ -9,3 +9,7 @@ Or i just forgot that they where there )))
 As usual, the best source to get info about git is:
 [git-scm.com](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
+Actually that's amazing - created the branches pushed them to github(developmen, feature)
+Quite happy that I'm playing with that and thinking about how to actually add a bit more
+scripts probably to my bashrc.
+
