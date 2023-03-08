@@ -5,3 +5,5 @@
 Think how I would structure it myself.
 
 The map of knowledge?
+This is probably what I'll do the map with? 
+[https://plantuml.com/archimate-diagram](https://plantuml.com/archimate-diagram)
