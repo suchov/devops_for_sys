@@ -40,3 +40,15 @@ https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60
 
 https://githowto.com/uk
 
+Home work:
+
+Створити remote репозиторій на одній з платформ на вибір(або на власному сервері за наявності):
+GitLab
+GitHub
+Bitbucket
+
+Налаштувати репозиторій на локальній машині
+Створити гілки main/master, development
+Зробити feature branch, покласти туди будь-який текстовий файл та зробити ряд комітів
+Змерджити зміни с dev гілкою
+Спробувати роботу з тегами
