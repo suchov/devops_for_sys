@@ -16,7 +16,8 @@
 
 
 Notes:
-12:00 stop
+20:00 stop
+https://platform.web-academy.com.ua/lessons/%D0%BB%D0%B5%D0%BA%D1%86%D1%96%D1%8F-3-5/
 
 Waterfal ... PO development
 
